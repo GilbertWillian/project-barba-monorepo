@@ -4,7 +4,7 @@ import { somar } from "@barba/core";
 export default function App() {
   return (
     <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text>{somar(10,20)}</Text>
+      <Text>Mobile</Text>
     </View>
   );
 }
